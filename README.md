@@ -5,12 +5,16 @@
 🚀 Currently looking for a co-op position for **Summer 2026** 
 
 ---
+## 💻 Currently Working On  
+- Creating, experimenting, and learning ML concepts using Python, skLearn, TF, PyTorch, and other techs to eventually learn and build a Fragrance Recommendation Engine -- combining data and my love for fragrances. 
+- Working alongside my friend to create a meaningful project for Carleton students: RateMyCaf -- an interactive and gamified platform to rate items on the caf menu for the day to make better decisions regarding what to eat.
+---
 
 ## ⚙️ Tech Stack  
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=python,react,nodejs,express,mongodb,aws,docker,js,html,css,git,postman,vscode,c,java,latex,&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,fastapi,js,ts,react,nodejs,express,mongodb,supabase,aws,docker,html,css,c,java,git,postman,vscode,latex,&perline=7)](https://skillicons.dev)
 
 </div>
 
