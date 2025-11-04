@@ -96,7 +96,7 @@
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=KuljitAujla&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com/?user=KuljitAujla&theme=tokyonight&hide_border=true)
 ![Kuljit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=KuljitAujla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuljitAujla&layout=compact&theme=tokyonight&hide_border=true)  
 </div>
