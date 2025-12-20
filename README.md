@@ -6,7 +6,7 @@
 
 ---
 ## 💻 Currently Working On  
-- Creating, experimenting, and learning ML concepts using Python, skLearn, TF, PyTorch, and other techs to eventually learn and build a Fragrance Recommendation Engine -- combining data and my love for fragrances. 
+- Creating, Fragrance Recommendation Engine -- combining data and my love for fragrances. Will be learning vector embeddings, llm embeddings, python web frameworks, but mainly how I can train something and deploy it end-to-end for it to be useful for a user.  
 - Working alongside my friend to create a meaningful project for Carleton students: RateMyCaf -- an interactive and gamified platform to rate items on the caf menu for the day to make better decisions regarding what to eat.
 ---
 
