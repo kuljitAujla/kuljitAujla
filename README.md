@@ -7,7 +7,7 @@
 ---
 ## 💻 Currently Working On  
 - Creating, Fragrance Recommendation Engine -- combining data and my love for fragrances. Will be learning vector embeddings, llm embeddings, python web frameworks, but mainly how I can train something and deploy it end-to-end for it to be useful for a user.  
-- Working alongside my friend to create a meaningful project for Carleton students: RateMyCaf -- an interactive and gamified platform to rate items on the caf menu for the day to make better decisions regarding what to eat.
+- Working alongside my friend to create a meaningful project for Carleton students: RateMyCaf -- an interactive and gamified platform to rate items on the caf menu for the day to make better decisions regarding what to eat (on pause).
 ---
 
 ## ⚙️ Tech Stack  
@@ -38,6 +38,8 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
+![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-4B8BBE?style=flat&logo=python&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
 
 ### Computing & ML
@@ -46,6 +48,7 @@
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8_Object_Detection-00FFFF?style=flat&logo=ultralytics&logoColor=black)
 ![YOLOv11](https://img.shields.io/badge/YOLOv11_Object_Detection-8A2BE2?style=flat&logo=ultralytics&logoColor=white)
+![Voyage AI](https://img.shields.io/badge/Voyage_AI_Vector_Embeddings-6A5ACD?style=flat&logo=openai&logoColor=white)
 
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
@@ -53,6 +56,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
 ![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=flat&logo=qdrant&logoColor=white)
 
 
 
