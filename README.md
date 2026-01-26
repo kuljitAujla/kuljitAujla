@@ -85,6 +85,20 @@
 
 </div>
 
+---
+
+## 🧴 Featured Project — [ScentInsider](https://scentinsider.com)
+
+> **Semantic Search & Fragrance Recommendation Engine**
+
+- 🔍 Search **30,000+ perfumes** using **1024-dim vector embeddings** (Voyage AI) to find scents by "vibe" (Natural Language Search) rather than just keywords
+- ⚡ **FastAPI** + **Qdrant** backend executes sub-millisecond similarity search with complex payload filtering (longevity, projection, gender)
+- 🕷️ Engineered a robust scraping pipeline with **concurrent threading** (25 workers) & proxy rotation to harvest ~60k raw records
+- 🎨 Modern **React 19** frontend featuring **fuzzy search** auto-complete and interactive scent profile visualizations
+
+📂 *View the source code on [Here](https://github.com/kuljitAujla/fragrance-recommender)*
+
+---
 
 ---
 
