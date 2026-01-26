@@ -96,7 +96,7 @@
 - 🕷️ Engineered a robust scraping pipeline with **concurrent threading** (25 workers) & proxy rotation to harvest ~60k raw records
 - 🎨 Modern **React 19** frontend featuring **fuzzy search** auto-complete and interactive scent profile visualizations
 
-📂 *View the source code on [Here](https://github.com/kuljitAujla/fragrance-recommender)*
+📂 *View the source code [Here](https://github.com/kuljitAujla/fragrance-recommender)*
 
 ---
 
