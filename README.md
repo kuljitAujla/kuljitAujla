@@ -1,20 +1,38 @@
-# 👋 Hey there, I’m Kuljit Aujla  
-
-🎓 **Computer Science @ Carleton University**  
-💡 **Ambitious** student trying to learn more through side projects!  
-🚀 Currently looking for a co-op position for **Summer 2026** 
+<!-- Typing SVG banner -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=6C8EF7&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Kuljit+Aujla+%F0%9F%91%8B;CS+%40+Carleton+University;Building+things+that+ship." alt="Typing SVG" />
+  <br/>
+</div>
 
 ---
-## 💻 Currently Working On  
-- Exploring start up dynamics with Nividia's new PersonaPlex model. Could provide a new realm of oppourtunities!
-- Working alongside my friend to create a meaningful project for Carleton students: RateMyCaf -- an interactive and gamified platform to rate items on the caf menu for the day to make better decisions regarding what to eat (on pause).
+
+🎓 CS student at **Carleton University** — looking for a **Fall 2026 co-op**  
+🚀 Currently working on a possible startup related to my past with barbering!  
+✂️ First dollar earned cutting hair. Same precision, different medium.
+
 ---
 
-## ⚙️ Tech Stack  
+## Highlighted Projects
+
+### [ScentInsider](https://scentinsider.com) — Semantic Fragrance Search Engine
+
+Search **30,000+ perfumes** by vibe, not keywords. Built a scraping pipeline (25 concurrent workers + proxy rotation) to harvest ~60k records, then indexed them with **1024-dim Voyage AI embeddings** in **Qdrant** for sub-millisecond similarity search. FastAPI backend with complex payload filtering; React 19 frontend with fuzzy autocomplete and scent profile visualizations.
+
+[Source](https://github.com/kuljitAujla/fragrance-recommender)
+
+---
+
+### [Remember2Pack](https://remember2pack.com) — AI Packing Assistant
+
+Upload a photo of your bag — **AWS Rekognition** identifies what's inside. Chat with an AI that holds short-term memory to refine your list. Dual-model fallback (Llama 3 → Claude 3.5 Haiku) for cost efficiency. JWT auth, OTP email verification, per-user S3 folders. React/Vite + Node/Express, deployed on Render.
+
+[Dev.to writeup](https://dev.to/kuljit_aujla/remember2pack-1dk4)
+
+---
+
+## Tech Stack
 
 <div align="center">
-
-<!-- [![My Skills](https://skillicons.dev/icons?i=python,sklearn,tensorflow,fastapi,js,ts,npm,vite,react,nodejs,express,mongodb,supabase,aws,docker,html,css,c,ubuntu,linux,java,git,postman,vscode,latex,devto,linkedin&perline=9)](https://skillicons.dev) -->
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -33,115 +51,66 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-66B3BA?style=flat&logo=python&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat&logo=vite&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=flat&logo=jsonwebtokens&logoColor=white)
-![Beautiful Soup](https://img.shields.io/badge/Beautiful_Soup-4B8BBE?style=flat&logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 
-
-### Computing & ML
-![CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat&logo=nvidia&logoColor=black)
+### ML & Computing
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![YOLOv8](https://img.shields.io/badge/YOLOv8_Object_Detection-00FFFF?style=flat&logo=ultralytics&logoColor=black)
-![YOLOv11](https://img.shields.io/badge/YOLOv11_Object_Detection-8A2BE2?style=flat&logo=ultralytics&logoColor=white)
-![Voyage AI](https://img.shields.io/badge/Voyage_AI_Vector_Embeddings-6A5ACD?style=flat&logo=openai&logoColor=white)
+![CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat&logo=nvidia&logoColor=black)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=ultralytics&logoColor=black)
+![Voyage AI](https://img.shields.io/badge/Voyage_AI-6A5ACD?style=flat&logo=openai&logoColor=white)
 
 ### Databases & Cloud
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![AWS S3](https://img.shields.io/badge/AWS_S3-569A31?style=flat&logo=amazons3&logoColor=white)
 ![Qdrant](https://img.shields.io/badge/Qdrant-FF4F8B?style=flat&logo=qdrant&logoColor=white)
 
-
-
-### DevOps & Hosting
+### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=flat&logo=render&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat&logo=railway&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-
-
-### Developer Tools
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
-![VSCode](https://img.shields.io/badge/VS_Code-0078D4?style=flat&logo=visualstudiocode&logoColor=white)
-
-### Platforms & Communities
-![Dev.to](https://img.shields.io/badge/Dev.to-0A0A0A?style=flat&logo=devdotto&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 
 </div>
 
 ---
 
-## 🧴 Featured Project — [ScentInsider](https://scentinsider.com)
+## Stats
 
-> **Semantic Search & Fragrance Recommendation Engine**
+<!-- Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=KuljitAujla&theme=tokyonight&hide_border=true" />
+</div>
 
-- 🔍 Search **30,000+ perfumes** using **1024-dim vector embeddings** (Voyage AI) to find scents by "vibe" (Natural Language Search) rather than just keywords
-- ⚡ **FastAPI** + **Qdrant** backend executes sub-millisecond similarity search with complex payload filtering (longevity, projection, gender)
-- 🕷️ Engineered a robust scraping pipeline with **concurrent threading** (25 workers) & proxy rotation to harvest ~60k raw records
-- 🎨 Modern **React 19** frontend featuring **fuzzy search** auto-complete and interactive scent profile visualizations
+<!-- Profile summary cards -->
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuljitAujla&theme=tokyonight" />
+</div>
 
-📂 *View the source code [Here](https://github.com/kuljitAujla/fragrance-recommender)*
+<!-- Activity graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuljitAujla&theme=tokyo-night&hide_border=true&area=true" />
+</div>
 
----
 
----
 
-## 🧳 Featured Project — [Remember2Pack](https://remember2pack.com)
 
-> **AI-Driven Smart Packing Assistant**
-
-- 📸 Upload an image of your packed items — **AWS Rekognition** detects what’s inside - or manually type any missed items  
-- 🧠 Chat with an AI assistant that uses **short-term memory** to refine your packing list  
-- 📬 Dual-model fallback (Llama 3 → Claude 3.5 Haiku) ensures seamless, cost-efficient AI responses  
-- 🔒 JWT authentication, OTP email verification, and user-specific **S3 folders** for security  
-- ☁️ Built with **React (Vite)** + **Node/Express API**, hosted on **Render**, integrated with **AWS**
-
-🧾 *Read more about the project on [Dev.to](https://dev.to/kuljit_aujla/remember2pack-1dk4)*  
 
 ---
 
-## 📈 GitHub Stats  
+## Would love to talk
 
 <div align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=KuljitAujla&theme=tokyonight&hide_border=true)
-![Kuljit’s GitHub stats](https://github-readme-stats.vercel.app/api?username=KuljitAujla&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KuljitAujla&layout=compact&theme=tokyonight&hide_border=true)  
-</div>
-
----
-
-## 🌐 Connect with Me  
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kuljit-aujla)   
-[![Email](https://img.shields.io/badge/Email-kuljit6a%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:kuljit6a@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kuljit-aujla)
+[![Email](https://img.shields.io/badge/kuljit6a@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kuljit6a@gmail.com)
 
 </div>
-
----
-
-### ✨ Fun Fact  
-
-> The first dollar I ever earned came from cutting hair — and I still bring that **barber’s precision** into every line of code I write.
-
----
-
-_💬 *Built by me, enhanced responsibly with AI.*_
