@@ -6,6 +6,9 @@
 
 ---
 
+[![Website](https://img.shields.io/badge/Portfolio-kuljitaujla.com-6C8EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kuljitaujla.com)
+
+
 🎓 CS student at **Carleton University** — looking for a **Fall 2026 co-op**  
 🚀 Currently working on a possible startup related to my past with barbering!  
 ✂️ First dollar earned cutting hair. Same precision, different medium.
@@ -78,6 +81,8 @@ Upload a photo of your bag — **AWS Rekognition** identifies what's inside. Cha
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Claude Code](https://img.shields.io/badge/Claude_Code-D97757?style=flat&logo=anthropic&logoColor=white)
+
 
 </div>
 
