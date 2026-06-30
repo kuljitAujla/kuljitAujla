@@ -9,7 +9,7 @@
 [![Website](https://img.shields.io/badge/Portfolio-kuljitaujla.com-6C8EF7?style=for-the-badge&logo=googlechrome&logoColor=white)](https://kuljitaujla.com)
 
 
-🎓 CS student at **Carleton University** — looking for a **Fall 2026 co-op**  
+🎓 CS student at **Carleton University**  
 🚀 Currently working on a possible startup related to my past with barbering!  
 ✂️ First dollar earned cutting hair. Same precision, different medium.
 
