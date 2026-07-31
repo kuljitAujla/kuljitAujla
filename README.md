@@ -27,7 +27,7 @@ Search **30,000+ perfumes** by vibe, not keywords. Built a scraping pipeline (25
 
 ### [Remember2Pack](https://remember2pack.com) — AI Packing Assistant
 
-Upload a photo of your bag — **AWS Rekognition** identifies what's inside. Chat with an AI that holds short-term memory to refine your list. Dual-model fallback (Llama 3 → Claude 3.5 Haiku) for cost efficiency. JWT auth, OTP email verification, per-user S3 folders. React/Vite + Node/Express, deployed on Render.
+Upload a photo of your bag — **AWS Rekognition** identifies what's inside. Chat with an AI that holds short-term memory to refine your list. Dual-model fallback (Llama 3 → Claude 4.5 Haiku) for cost efficiency. JWT auth, OTP email verification, per-user S3 folders. React/Vite + Node/Express, deployed on Render.
 
 [Dev.to writeup](https://dev.to/kuljit_aujla/remember2pack-1dk4)
 
