@@ -10,8 +10,8 @@
 
 
 🎓 CS student at **Carleton University**  
-🚀 Currently working on a possible startup related to my past with barbering!  
-✂️ First dollar earned cutting hair. Same precision, different medium.
+🚀 Currently working on [**Lineup**](https://gotlineup.com) (barber booking management app)!  
+✂️ Used to be a barber hence the startup idea (major pain point for me)
 
 ---
 
@@ -62,7 +62,6 @@ Upload a photo of your bag — **AWS Rekognition** identifies what's inside. Cha
 ### ML & Computing
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=black)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![CUDA](https://img.shields.io/badge/NVIDIA_CUDA-76B900?style=flat&logo=nvidia&logoColor=black)
 ![YOLOv8](https://img.shields.io/badge/YOLOv8-00FFFF?style=flat&logo=ultralytics&logoColor=black)
 ![Voyage AI](https://img.shields.io/badge/Voyage_AI-6A5ACD?style=flat&logo=openai&logoColor=white)
 
@@ -75,7 +74,6 @@ Upload a photo of your bag — **AWS Rekognition** identifies what's inside. Cha
 
 ### DevOps & Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=nginx&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
@@ -110,7 +108,7 @@ Upload a photo of your bag — **AWS Rekognition** identifies what's inside. Cha
 
 ---
 
-## Would love to talk
+## Would love to talk (srsly)
 
 <div align="center">
 
