@@ -100,10 +100,6 @@ Upload a photo of your bag — **AWS Rekognition** identifies what's inside. Cha
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KuljitAujla&theme=tokyonight" />
 </div>
 
-<!-- Activity graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KuljitAujla&theme=tokyo-night&hide_border=true&area=true" />
-</div>
 
 
 
